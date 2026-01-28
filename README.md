@@ -32,7 +32,7 @@ Feedback as always is welcome.
 
 ### Special character
 
-ALT-230 = µ
+ALT-230 = Âµ
 
 
 ### Related
@@ -58,12 +58,12 @@ ALT-230 = µ
 
 Setters
 
-- **float setGray(float value)** SI unit Gy
-- **float setMilliGray(float value)**
-- **float setMicroGray(float value)**
-- **float getGray()**
-- **float getMilliGray()**
-- **float getMicroGray()**
+- **void setGray(float value)** SI unit Gy
+- **void setMilliGray(float value)**
+- **void setMicroGray(float value)**
+- **void getGray()**
+- **void getMilliGray()**
+- **void getMicroGray()**
 
 Getters
 
@@ -79,12 +79,12 @@ Getters
 
 Setters
 
-- **float setSievert(float value)** SI unit Sv.
-- **float setMilliSievert(float value)**
-- **float setMicroSievert(float value)**
-- **float setRem(float value)**
-- **float setMilliRem(float value)**
-- **float setMicroRem(float value)**
+- **void setSievert(float value)** SI unit Sv.
+- **void setMilliSievert(float value)**
+- **void setMicroSievert(float value)**
+- **void setRem(float value)**
+- **void setMilliRem(float value)**
+- **void setMicroRem(float value)**
 
 Getters
 
